@@ -1,0 +1,11 @@
+
+### GenAI Usage – Deliverable 2
+
+During this assignment, we used ChatGPT as a learning and support tool throughout the development process. 
+We wrote and developed the code ourselves, using AI primarily for guidance, explanations, and assistance 
+when encountering challenges. ChatGPT helped us understand Python concepts related to file handling, regular
+expressions, NumPy, and Pandas. We also used AI for debugging, discussing possible solutions, and receiving 
+suggestions for improvements when needed. Additionally, ChatGPT assisted us in reviewing our notebooks, 
+improving comments, and structuring our results and discussions. We evaluated and tested the code ourselves 
+to ensure that we understood our solutions and that they worked as expected. Overall, AI supported our 
+learning and problem-solving process, while the implementation and final decisions remained our responsibility.
